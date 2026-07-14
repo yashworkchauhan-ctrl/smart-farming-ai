@@ -4,7 +4,7 @@ streamlit
 numpy
 pandas
 scikit-learn
-tensorflow
+tensorflow==2.19.0
 pillow
 requests
 python-multipart
