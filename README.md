@@ -281,6 +281,7 @@ streamlit run frontend/app.py
 ### Login Page
 
 (Add Screenshot)
+<img width="1917" height="867" alt="Screenshot 2026-07-15 153122" src="https://github.com/user-attachments/assets/0441d8e1-ec30-453d-83b4-a97eef5556fb" />
 
 ---
 
