@@ -286,6 +286,7 @@ streamlit run frontend/app.py
 ---
 
 ### Dashboard
+<img width="1917" height="857" alt="image" src="https://github.com/user-attachments/assets/1d09ea04-8202-4195-a4c5-376fa5d77814" />
 
 (Add Screenshot)
 
@@ -295,11 +296,13 @@ streamlit run frontend/app.py
 
 (Add Screenshot)
 
----
+---<img width="1917" height="877" alt="image" src="https://github.com/user-attachments/assets/8f998795-98d7-4dc3-a4e6-a5ead7c9940b" />
+
 
 ### Fertilizer Recommendation
 
 (Add Screenshot)
+<img width="1916" height="875" alt="image" src="https://github.com/user-attachments/assets/948f3b8b-5915-48fc-85cc-49d65d271b75" />
 
 ---
 
@@ -307,17 +310,20 @@ streamlit run frontend/app.py
 
 (Add Screenshot)
 
----
+---<img width="1917" height="855" alt="image" src="https://github.com/user-attachments/assets/54726551-fce0-40f1-859c-fd24406bcc1d" />
+
 
 ### Weather Module
 
 (Add Screenshot)
+<img width="1917" height="871" alt="image" src="https://github.com/user-attachments/assets/16b8c643-91d9-4421-8c01-e9c724e67496" />
 
 ---
 
 ### Yield Prediction
 
 (Add Screenshot)
+<img width="1917" height="871" alt="image" src="https://github.com/user-attachments/assets/9d3795f3-a27d-41a7-8e40-e39a02442afa" />
 
 ---
 
